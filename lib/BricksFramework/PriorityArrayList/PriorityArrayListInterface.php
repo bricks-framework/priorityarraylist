@@ -1,6 +1,8 @@
 <?php
 
-/** @copyright Sven Ullmann <kontakt@sumedia-webdesign.de> **/namespace BricksFramework\PriorityArrayList;
+/** @copyright Sven Ullmann <kontakt@sumedia-webdesign.de> **/
+
+namespace BricksFramework\PriorityArrayList;
 
 interface PriorityArrayListInterface extends \IteratorAggregate, \Countable
 {

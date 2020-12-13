@@ -1,6 +1,8 @@
 <?php
 
-/** @copyright Sven Ullmann <kontakt@sumedia-webdesign.de> **/namespace BricksFramework\PriorityArrayList\Exception;
+/** @copyright Sven Ullmann <kontakt@sumedia-webdesign.de> **/
+
+namespace BricksFramework\PriorityArrayList\Exception;
 
 use BricksFramework\Exception\LogicException;
 
